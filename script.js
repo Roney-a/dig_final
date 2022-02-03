@@ -2,20 +2,20 @@
 // 1行目に記載している 'use strict' は削除しないでください
 let i = 0;
 const ppts = [
-  "./DIG_プレゼン/スライド1.jpeg",
-  "./DIG_プレゼン/スライド2.jpeg",
-  "./DIG_プレゼン/スライド3.jpeg",
-  "./DIG_プレゼン/スライド4.jpeg",
-  "./DIG_プレゼン/スライド5.jpeg",
-  "./DIG_プレゼン/スライド6.jpeg",
-  "./DIG_プレゼン/スライド7.jpeg",
-  "./DIG_プレゼン/スライド8.jpeg",
-  "./DIG_プレゼン/スライド9.jpeg",
-  "./DIG_プレゼン/スライド10.jpeg",
-  "./DIG_プレゼン/スライド11.jpeg",
-  "./DIG_プレゼン/スライド12.jpeg",
-  "./DIG_プレゼン/スライド13.jpeg",
-  "./DIG_プレゼン/スライド14.gif"
+  "DIG_プレゼン/スライド1.jpeg",
+  "DIG_プレゼン/スライド2.jpeg",
+  "DIG_プレゼン/スライド3.jpeg",
+  "DIG_プレゼン/スライド4.jpeg",
+  "DIG_プレゼン/スライド5.jpeg",
+  "DIG_プレゼン/スライド6.jpeg",
+  "DIG_プレゼン/スライド7.jpeg",
+  "DIG_プレゼン/スライド8.jpeg",
+  "DIG_プレゼン/スライド9.jpeg",
+  "DIG_プレゼン/スライド10.jpeg",
+  "DIG_プレゼン/スライド11.jpeg",
+  "DIG_プレゼン/スライド12.jpeg",
+  "DIG_プレゼン/スライド13.jpeg",
+  "DIG_プレゼン/スライド14.gif"
 ];
 
 document.getElementById("back").innerText = "";
