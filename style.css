@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(8, 1, 24);
+    color: rgb(219, 222, 224);
+    font-family: "Comic Sans", sans-serif;
+  }
+  
+  div.img-area{
+    display: flex;
+    justify-content: center;
+  }
+  div.img-area img{
+    width:auto;
+    height:auto;
+    max-width:1000%;
+    max-height:1000%;
+  }
+  div.input{
+    display: flex;
+    justify-content: center;
+  }
+  button#next {
+    background-color: rgb(8, 1, 24);
+    color:rgb(200,200,200);
+    width: 200px;
+    height:60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:auto;
+    font-size:large;
+    cursor: pointer;
+    }
+  button#back {
+    background-color: rgb(8, 1, 24);
+    width: 200px;
+    height:60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:auto;
+    color: rgb(200, 200, 200);
+    font-size:large;
+    cursor: pointer;
+    table-layout: fixed;
+  }
